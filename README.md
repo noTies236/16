@@ -19,3 +19,7 @@ My vertex and fragment shaders were placed in their own separate files. Then, I 
 - **Disadvantage**: Requires a bit more C++ code to read and load the shader files.
 
 <img width="1076" height="217" alt="Screenshot 2025-07-16 091919" src="https://github.com/user-attachments/assets/ad9653a7-9211-42a3-84cd-97800e67e396" />
+
+#
+
+<img width="1900" height="941" alt="Screenshot 2025-07-16 100021" src="https://github.com/user-attachments/assets/697074ef-c548-4be2-9d70-622c61fdd0de" />
